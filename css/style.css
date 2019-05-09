@@ -30,6 +30,7 @@ p {
     text-align: center;
     height: 400px;
     text-decoration-line: underline;
+    font-size: larger;
 }
 
 p {
@@ -40,7 +41,8 @@ p {
     background-image: url("../images/backgrounds/s_image.jpg");
     text-align: center;
     height: 400px;
-    color: #FFFFFF;
+    color: orange;
+    font-size: larger;
 }
 
 .whatwedo {
@@ -91,12 +93,25 @@ h6 {
     text-decoration-style: dotted;
 }
 
-.button1,
-.button2,
+.button1 {
+    background-color: rgb(127, 206, 206);
+    text-align: center;
+    text-decoration-color: red;
+    font-stretch: unset;
+}
+
+.button2 {
+    background-color: rgb(127, 206, 206);
+    text-align: center;
+    text-decoration-color: red;
+    font-stretch: unset;
+}
+
 .button3 {
     background-color: rgb(127, 206, 206);
-    text-align: left;
+    text-align: center;
     text-decoration-color: red;
+    font-stretch: unset;
 }
 
 #container {
@@ -106,7 +121,7 @@ h6 {
 
 .text {
     color: black;
-    position: relative;
+    position: center;
     text-align: center;
 }
 
@@ -118,8 +133,8 @@ h6 {
 #div6,
 #div7,
 #div8 {
-    height: 240px;
-    width: 240px;
+    height: 250px;
+    width: 260px;
 }
 
 #div1 img,
