@@ -1,0 +1,221 @@
+.home {
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
+
+h1 {
+    text-align-last: center
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(64, 231, 176);
+    text-decoration-line: underline, overline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+
+.about {
+    text-align: center;
+    height: 400px;
+    text-decoration-line: underline;
+}
+
+p {
+    color: black
+}
+
+.services {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    text-align: center;
+    height: 400px;
+    color: #FFFFFF;
+}
+
+.whatwedo {
+    height: 400px;
+    background-color: whitesmoke;
+    margin-bottom: 50px;
+    text-decoration-line: underline;
+}
+
+h3 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+    color: rgb(128, 19, 0);
+}
+
+h5 {
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6 {
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact {
+    background-image: url("../images/backgrounds/c_image.jpg");
+    height: 600px;
+    text-align: center;
+}
+
+.social {
+    text-align: center;
+    height: 250px;
+}
+
+.footer {
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    text-decoration-style: dotted;
+}
+
+.button1,
+.button2,
+.button3 {
+    background-color: rgb(127, 206, 206);
+    text-align: left;
+    text-decoration-color: red;
+}
+
+#container {
+    width: 200px;
+    height: 500px;
+}
+
+.text {
+    color: black;
+    position: relative;
+    text-align: center;
+}
+
+#div1,
+#div2,
+#div3,
+#div4,
+#div5,
+#div6,
+#div7,
+#div8 {
+    height: 240px;
+    width: 240px;
+}
+
+#div1 img,
+#div2 img,
+#div4 img,
+#div5 img,
+#div6 img,
+#div7 img,
+#div8 img,
+#div3 img {
+    height: 100%;
+    width: 100%
+}
+
+.contact {
+    margin-top: 100px;
+}
+
+.text {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text2 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text3 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: black;
+    font-size: larger;
+}
+
+.text4 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text5 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text6 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text7 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.text8 {
+    margin-top: -50%;
+    font-weight: bolder;
+    color: rgb(228, 93, 15);
+    font-size: larger;
+}
+
+.here1,
+.here2,
+.here3 {
+    display: none;
+}
+
+a.button4 {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #FFFFFF;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+a.button4:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
