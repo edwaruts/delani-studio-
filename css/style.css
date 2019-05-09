@@ -18,6 +18,7 @@ h2 {
     color: rgb(64, 231, 176);
     text-decoration-line: underline, overline;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
 }
 
 p {
@@ -29,7 +30,6 @@ p {
 .about {
     text-align: center;
     height: 400px;
-    text-decoration-line: underline;
     font-size: larger;
 }
 
@@ -145,7 +145,8 @@ h6 {
 #div8 img,
 #div3 img {
     height: 100%;
-    width: 100%
+    width: 100%;
+    padding: 0%;
 }
 
 .contact {
@@ -154,57 +155,67 @@ h6 {
 
 .text {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
 }
 
 .text2 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
+    font-weight: 900;
 }
 
 .text3 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: black;
     font-size: larger;
+    text-align: center;
 }
 
 .text4 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
 }
 
 .text5 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
 }
 
 .text6 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
 }
 
 .text7 {
     margin-top: -50%;
-    font-weight: bolder;
+    font-weight: bold;
     color: rgb(228, 93, 15);
     font-size: larger;
+    text-align: center;
 }
 
 .text8 {
-    font-weight: bolder;
-    color: rgb(228, 93, 15);
+    font-weight: bold;
+    color: black;
     font-size: larger;
+    margin-top: -50%;
+    text-align: center;
 }
 
 .here1,

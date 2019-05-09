@@ -50,7 +50,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.2 }, 500);
             $(".text2").fadeOut();
         }
     );
