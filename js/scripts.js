@@ -71,7 +71,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.4 }, 200);
             $(".text3").fadeOut();
         }
     );
@@ -92,7 +92,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.4 }, 200);
             $(".text4").fadeOut();
         }
     );
@@ -113,7 +113,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.4 }, 200);
             $(".text").fadeOut();
         }
     );
@@ -134,7 +134,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.4 }, 200);
             $(".text6").fadeOut();
         }
     );
@@ -155,7 +155,7 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 500);
+                .animate({ opacity: 0.4 }, 500);
             $(".text7").fadeOut();
         }
     );
@@ -170,13 +170,13 @@ $(document).ready(function() {
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 300);
+                .animate({ opacity: 0.4 }, 300);
             $(".text8").fadeIn();
         },
         function() {
             $(this)
                 .stop()
-                .animate({ opacity: 1 }, 700);
+                .animate({ opacity: 0.4 }, 700);
             $(".text8").fadeOut();
         }
     );
@@ -184,5 +184,5 @@ $(document).ready(function() {
 
 function myFunction() {
     document.getElementById("demo").innerHTML =
-        "we have received your message,we shall get back to you shortly thank you";
+        "Thank you for your feedback,we shall get back to you shortly";
 }

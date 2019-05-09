@@ -25,12 +25,14 @@ p {
     text-align: center;
     color: white;
     font-size: larger;
+    font-family:
 }
 
 .about {
     text-align: center;
     height: 400px;
     font-size: larger;
+    font-family: 'Indie Flower', cursive;
 }
 
 p {
@@ -43,12 +45,15 @@ p {
     height: 400px;
     color: orange;
     font-size: larger;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .whatwedo {
     height: 400px;
     background-color: whitesmoke;
     margin-bottom: 50px;
+    font-family: 'Gugi', cursive;
+    text-emphasis: bolder;
 }
 
 h3 {
@@ -86,7 +91,7 @@ h6 {
 
 .footer {
     width: 100%;
-    background-color: whitesmoke;
+    background-color: orangered;
     color: black;
     text-align: center;
     text-decoration-style: dotted;
@@ -150,12 +155,12 @@ h6 {
 }
 
 .contact {
-    margin-top: 100px;
+    margin-top: 160px;
 }
 
 .text {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
@@ -163,16 +168,15 @@ h6 {
 
 .text2 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
-    font-weight: 900;
 }
 
 .text3 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: black;
     font-size: larger;
     text-align: center;
@@ -180,7 +184,7 @@ h6 {
 
 .text4 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
@@ -188,7 +192,7 @@ h6 {
 
 .text5 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
@@ -196,7 +200,7 @@ h6 {
 
 .text6 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
@@ -204,14 +208,14 @@ h6 {
 
 .text7 {
     margin-top: -50%;
-    font-weight: bold;
+    font-weight: bolder;
     color: rgb(228, 93, 15);
     font-size: larger;
     text-align: center;
 }
 
 .text8 {
-    font-weight: bold;
+    font-weight: bolder;
     color: black;
     font-size: larger;
     margin-top: -50%;
