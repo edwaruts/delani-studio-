@@ -226,6 +226,7 @@ h6 {
 .here2,
 .here3 {
     display: none;
+    float: left;
 }
 
 a.button4 {
